@@ -1,6 +1,10 @@
 # Hi, i'm spita
 
-I study cs in Italy since 2020 and I'm passionate about it
+I study cs in Italy since 2020 and my goal is to join Google
+
+:penguin: Linux for work, but still Windows for gaming
+:star2: Full stack enjoyer, but prefers backend due to how complicated web tech stacks are
+:notebook: Current "want-to-learn" language: Rust
 
 Favourite languages and tools
 ---
